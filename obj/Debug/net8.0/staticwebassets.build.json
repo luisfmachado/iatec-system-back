@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l0kkDeV3ZWJtz0GCvmH24Q2Nldjm8VkCGVOKC6Zu9r0=",
+  "Source": "iatec-system-api",
+  "BasePath": "_content/iatec-system-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
