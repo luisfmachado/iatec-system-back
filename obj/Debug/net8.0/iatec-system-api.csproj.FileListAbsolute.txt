@@ -177,3 +177,8 @@ C:\Users\yluis\OneDrive\Documentos\GitHub\iatec-system-back\bin\Debug\net8.0\Sys
 C:\Users\yluis\OneDrive\Documentos\GitHub\iatec-system-back\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 C:\Users\yluis\OneDrive\Documentos\GitHub\iatec-system-back\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\yluis\OneDrive\Documentos\GitHub\iatec-system-back\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yluis\OneDrive\Documentos\GitHub\iatec-system-back\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\yluis\OneDrive\Documentos\GitHub\iatec-system-back\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yluis\OneDrive\Documentos\GitHub\iatec-system-back\bin\Debug\net8.0\MediatR.dll
+C:\Users\yluis\OneDrive\Documentos\GitHub\iatec-system-back\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\yluis\OneDrive\Documentos\GitHub\iatec-system-back\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
