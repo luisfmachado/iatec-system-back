@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iatec-system-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+059b3ab502516049cc4f0fb8b19e0e5934ccd09e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+942f1de218078d130c71f367e29860f693bbe93a")]
 [assembly: System.Reflection.AssemblyProductAttribute("iatec-system-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iatec-system-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
