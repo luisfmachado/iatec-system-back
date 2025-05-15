@@ -36,4 +36,9 @@ public class AccountRepository : IAccountRepository
         await _context.Accounts.AddAsync(account);
         await _context.SaveChangesAsync();
     }
+
+    public async Task<Account?> GetByIdAsync(int id)
+    {
+        return await _context.Accounts.FirstOrDefaultAsync(u => u.Id == id);
+    }
 }
